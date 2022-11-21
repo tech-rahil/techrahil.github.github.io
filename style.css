@@ -1,0 +1,113 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital@0;1&family=Smooch&family=The+Nautigal&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital@0;1&family=Roboto&family=Smooch&family=The+Nautigal&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+.cursor{
+    cursor: pointer;
+}
+.rahil{
+    font-family: 'Playfair Display', serif;
+}
+.head{
+    font-family: 'The Nautigal', cursive;
+}
+
+.in{
+    background: rgb(224, 219, 219);
+}
+.out{
+    background-color: #fff;
+    border-radius: 5px;
+    /* height: 450px; */
+    box-shadow: 5px 5px 5px;
+}
+.h1{
+    padding: 10px;
+    font-family: 'Playfair Display', serif;
+    /* font-family: 'Smooch', cursive; */
+}
+.i1{
+    padding: 30px;
+    font-family: 'The Nautigal', cursive;
+    font-size: 40px;
+    font-weight: 40px;
+}
+.p1{
+    padding: 20px;
+}
+.icon1{
+    width: 60px;
+    height: 60px;
+    
+}
+.past{
+     font-family: 'The Nautigal', cursive; 
+     padding: 20px;
+    font-size: 50px;
+}
+.work{
+    font-family: 'Playfair Display', serif;
+    padding: 20px;
+    font-size: 60px;  
+}
+.march{
+    padding: 10px;
+    font-family: 'The Nautigal', cursive; 
+    font-size: 25px;
+}
+.p2{
+    font-family: 'Playfair Display', serif;  
+    padding: 10px;
+}
+.malik{
+    background-color: rgb(219, 211, 211);
+    height: 300px;
+}
+.edu{
+    font-family: 'The Nautigal', cursive;
+    font-size: 25px;
+}
+.june{
+    font-family: 'The Nautigal', cursive;
+    font-size: 25px; 
+}
+.june2{
+    font-family: 'Playfair Display', serif;
+    font-size: 30px; 
+}
+.sec{
+    padding-left: 80px;
+
+    
+}
+.input{
+    height: 30px;
+    width: 400px;
+}
+.btn{
+    color: #fff;
+    background-color: black;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+    vertical-align: middle;
+    width: 400px;
+    height: 38px;
+    margin: 7px 3px;
+    border-radius: 0px;
+}
+.font{
+    font-family: 'Playfair Display', serif;
+font-family: 'Roboto', sans-serif;
+font-size: 30px;
+
+}
+.skill{
+    font-family:'Playfair Display', serif ;
+}
+.p{
+    font-family: 'The Nautigal', cursive;
+    font-size: 50px;   
+}
